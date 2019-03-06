@@ -75,6 +75,7 @@ public class IP540Controller implements IWebCamController {
     @Override
     public void moveRight() throws IOException {
         this.move(RIGHT);
+        
     }
 
 }
